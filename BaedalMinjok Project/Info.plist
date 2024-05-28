@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Font/BMYEONSUNG_otf.otf</string>
+		<string>Font/BMEULJIRO.otf</string>
+		<string>Font/BMEuljiro10yearslaterOTF.otf</string>
+		<string>Font/BMHANNA_11yrs_otf.otf</string>
+		<string>Font/BMHANNAAir_otf.otf</string>
+		<string>Font/BMHANNAProOTF.otf</string>
+		<string>Font/BMJUA_otf.otf</string>
+		<string>Font/BMKIRANGHAERANG-OTF.otf</string>
+		<string>Font/BMYEONSUNG_otf.otf</string>
+		<string>Font/BMDOHYEON_ttf.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
